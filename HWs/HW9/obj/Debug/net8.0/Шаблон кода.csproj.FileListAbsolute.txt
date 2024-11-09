@@ -1,0 +1,14 @@
+C:\Users\админ\Desktop\Програмки\C#\Шаблон кода\bin\Debug\net8.0\Шаблон кода.exe
+C:\Users\админ\Desktop\Програмки\C#\Шаблон кода\bin\Debug\net8.0\Шаблон кода.deps.json
+C:\Users\админ\Desktop\Програмки\C#\Шаблон кода\bin\Debug\net8.0\Шаблон кода.runtimeconfig.json
+C:\Users\админ\Desktop\Програмки\C#\Шаблон кода\bin\Debug\net8.0\Шаблон кода.dll
+C:\Users\админ\Desktop\Програмки\C#\Шаблон кода\bin\Debug\net8.0\Шаблон кода.pdb
+C:\Users\админ\Desktop\Програмки\C#\Шаблон кода\obj\Debug\net8.0\Шаблон кода.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\админ\Desktop\Програмки\C#\Шаблон кода\obj\Debug\net8.0\Шаблон кода.AssemblyInfoInputs.cache
+C:\Users\админ\Desktop\Програмки\C#\Шаблон кода\obj\Debug\net8.0\Шаблон кода.AssemblyInfo.cs
+C:\Users\админ\Desktop\Програмки\C#\Шаблон кода\obj\Debug\net8.0\Шаблон кода.csproj.CoreCompileInputs.cache
+C:\Users\админ\Desktop\Програмки\C#\Шаблон кода\obj\Debug\net8.0\Шаблон кода.dll
+C:\Users\админ\Desktop\Програмки\C#\Шаблон кода\obj\Debug\net8.0\refint\Шаблон кода.dll
+C:\Users\админ\Desktop\Програмки\C#\Шаблон кода\obj\Debug\net8.0\Шаблон кода.pdb
+C:\Users\админ\Desktop\Програмки\C#\Шаблон кода\obj\Debug\net8.0\Шаблон кода.genruntimeconfig.cache
+C:\Users\админ\Desktop\Програмки\C#\Шаблон кода\obj\Debug\net8.0\ref\Шаблон кода.dll
